@@ -33,14 +33,20 @@ Welcome to my github!.
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a></a>
 </p>
+<br>
 
 ###  ⚙️&nbsp;GitHub Analytics
+
 <br>
-<p align="center">
-  <img aling="left" height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private="true"/>
-  <img aling="right" height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=EliRamz&theme=algolia" alt="candida18"  />
-  <img aling="center" height= "150"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=algolia&layout=compact" />
-</p>
+
+ <p align="center">
+   <a>
+  <img  src="https://github-readme-stats-eight-theta.vercel.app/api?username=EliRamz&show_icons=true&theme=algolia&include_all_commits=true&count_private="true"/>
+  <img   src="https://github-readme-streak-stats.herokuapp.com/?user=EliRamz&theme=algolia" alt="candida18"  />
+  </a>
+ </p>
+</div>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliRamz&theme=algolia&layout=compact" /></p>
 
 
 
