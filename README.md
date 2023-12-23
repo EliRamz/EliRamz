@@ -40,13 +40,15 @@ Welcome to my github!.
 <br>
 
  <p align="center">
-   <a>
-  <img  src="https://github-readme-stats-eight-theta.vercel.app/api?username=EliRamz&show_icons=true&theme=algolia&include_all_commits=true&count_private="true"/>
-  <img   src="https://github-readme-streak-stats.herokuapp.com/?user=EliRamz&theme=algolia" alt="candida18"  />
+   <a href="https://github.com/EliRamz">
+  <img  src="https://github-readme-stats-eight-theta.vercel.app/api?username=EliRamz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EliRamz&theme=algolia" alt="GitHub Streak" />
+    
   </a>
  </p>
 </div>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliRamz&theme=algolia&layout=compact" /></p>
+<p align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EliRamz&layout=compact&langs_count=8&theme=algolia"/></p>
+
 
 
 
